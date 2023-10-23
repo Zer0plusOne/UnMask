@@ -42,5 +42,6 @@ if target == 'localhost':
 if target == "":
     print("enter a valid host")
     os.system("cls")
+    print("exit code 1")
     sys.exit(1)
 
