@@ -20,7 +20,7 @@ sudo apt-get install git
 ## Installation
 Clone this repository to your local machine using:
 ```bash
-https://github.com/Zer0plusOne/unmasker
+https://github.com/Zer0plusOne/UnMask
 ```
 
 ## Usage
